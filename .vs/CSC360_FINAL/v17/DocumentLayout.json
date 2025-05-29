@@ -1,10 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PROJECTS\\C#\\Y2Q3\\C#_CSC360_FINAL\\CSC360_FINAL\\",
+  "WorkspaceRootPath": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|c:\\projects\\c#\\y2q3\\c#_csc360_final\\csc360_final\\csc360_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|c:\\projects\\c#\\y2q3\\csc360-final\\csc360_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|solutionrelative:csc360_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|c:\\projects\\c#\\y2q3\\csc360-final\\csc360_final\\commands\\marktaskcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|solutionrelative:csc360_final\\commands\\marktaskcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|c:\\projects\\c#\\y2q3\\csc360-final\\csc360_final\\commands\\icommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|solutionrelative:csc360_final\\commands\\icommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|c:\\projects\\c#\\y2q3\\csc360-final\\csc360_final\\commands\\addtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|solutionrelative:csc360_final\\commands\\addtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|c:\\projects\\c#\\y2q3\\csc360-final\\csc360_final\\commands\\deletetasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|solutionrelative:csc360_final\\commands\\deletetasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|c:\\projects\\c#\\y2q3\\csc360-final\\csc360_final\\commands\\deletetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|solutionrelative:csc360_final\\commands\\deletetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|c:\\projects\\c#\\y2q3\\csc360-final\\csc360_final\\models\\taskfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|solutionrelative:csc360_final\\models\\taskfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|c:\\projects\\c#\\y2q3\\csc360-final\\csc360_final\\services\\taskfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|solutionrelative:csc360_final\\services\\taskfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|c:\\projects\\c#\\y2q3\\csc360-final\\csc360_final\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2117C11B-B357-4156-ABAF-0E6336902C32}|CSC360_FINAL\\CSC360_FINAL.csproj|solutionrelative:csc360_final\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,29 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 12,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PROJECTS\\C#\\Y2Q3\\C#_CSC360_FINAL\\CSC360_FINAL\\CSC360_FINAL\\Program.cs",
-              "RelativeDocumentMoniker": "CSC360_FINAL\\Program.cs",
-              "ToolTip": "C:\\PROJECTS\\C#\\Y2Q3\\C#_CSC360_FINAL\\CSC360_FINAL\\CSC360_FINAL\\Program.cs",
-              "RelativeToolTip": "CSC360_FINAL\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T23:45:55.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -52,6 +63,123 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteTaskList.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\Commands\\DeleteTaskList.cs",
+              "RelativeDocumentMoniker": "CSC360_FINAL\\Commands\\DeleteTaskList.cs",
+              "ToolTip": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\Commands\\DeleteTaskList.cs",
+              "RelativeToolTip": "CSC360_FINAL\\Commands\\DeleteTaskList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T03:43:53.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteTaskCommand.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\Commands\\DeleteTaskCommand.cs",
+              "RelativeDocumentMoniker": "CSC360_FINAL\\Commands\\DeleteTaskCommand.cs",
+              "ToolTip": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\Commands\\DeleteTaskCommand.cs",
+              "RelativeToolTip": "CSC360_FINAL\\Commands\\DeleteTaskCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T03:43:29.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MarkTaskComplete.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\Commands\\MarkTaskComplete.cs",
+              "RelativeDocumentMoniker": "CSC360_FINAL\\Commands\\MarkTaskComplete.cs",
+              "ToolTip": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\Commands\\MarkTaskComplete.cs",
+              "RelativeToolTip": "CSC360_FINAL\\Commands\\MarkTaskComplete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T03:42:48.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddTaskCommand.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\Commands\\AddTaskCommand.cs",
+              "RelativeDocumentMoniker": "CSC360_FINAL\\Commands\\AddTaskCommand.cs",
+              "ToolTip": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\Commands\\AddTaskCommand.cs",
+              "RelativeToolTip": "CSC360_FINAL\\Commands\\AddTaskCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T03:38:43.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICommands.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\Commands\\ICommands.cs",
+              "RelativeDocumentMoniker": "CSC360_FINAL\\Commands\\ICommands.cs",
+              "ToolTip": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\Commands\\ICommands.cs",
+              "RelativeToolTip": "CSC360_FINAL\\Commands\\ICommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T03:38:07.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "CSC360_FINAL\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\Models\\TaskItem.cs",
+              "RelativeToolTip": "CSC360_FINAL\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:37:54.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskFileManager.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\Services\\TaskFileManager.cs",
+              "RelativeDocumentMoniker": "CSC360_FINAL\\Services\\TaskFileManager.cs",
+              "ToolTip": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\Services\\TaskFileManager.cs",
+              "RelativeToolTip": "CSC360_FINAL\\Services\\TaskFileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:43:22.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskFactory.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\Models\\TaskFactory.cs",
+              "RelativeDocumentMoniker": "CSC360_FINAL\\Models\\TaskFactory.cs",
+              "ToolTip": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\Models\\TaskFactory.cs",
+              "RelativeToolTip": "CSC360_FINAL\\Models\\TaskFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:40:48.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\Program.cs",
+              "RelativeDocumentMoniker": "CSC360_FINAL\\Program.cs",
+              "ToolTip": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\Program.cs",
+              "RelativeToolTip": "CSC360_FINAL\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:45:55.864Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "L5UYxWG+r2k=",
+  "dgSpecHash": "8ICfUecRCgU=",
   "success": true,
-  "projectFilePath": "C:\\PROJECTS\\C#\\Y2Q3\\C#_CSC360_FINAL\\CSC360_FINAL\\CSC360_FINAL\\CSC360_FINAL.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\CSC360_FINAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ethan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\Ethan\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.16\\microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\Ethan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.16\\microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\Ethan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.16\\microsoft.netcore.app.host.win-x64.8.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

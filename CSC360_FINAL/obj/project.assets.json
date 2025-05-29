@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJECTS\\C#\\Y2Q3\\C#_CSC360_FINAL\\CSC360_FINAL\\CSC360_FINAL\\CSC360_FINAL.csproj",
+      "projectUniqueName": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\CSC360_FINAL.csproj",
       "projectName": "CSC360_FINAL",
-      "projectPath": "C:\\PROJECTS\\C#\\Y2Q3\\C#_CSC360_FINAL\\CSC360_FINAL\\CSC360_FINAL\\CSC360_FINAL.csproj",
+      "projectPath": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\CSC360_FINAL.csproj",
       "packagesPath": "C:\\Users\\Ethan\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJECTS\\C#\\Y2Q3\\C#_CSC360_FINAL\\CSC360_FINAL\\CSC360_FINAL\\obj\\",
+      "outputPath": "C:\\PROJECTS\\C#\\Y2Q3\\CSC360-FINAL\\CSC360_FINAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,12 +68,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.16, 8.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.16, 8.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.16, 8.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.16, 8.0.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
