@@ -88,4 +88,9 @@ addCmd.Execute();
 - [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) or later (Console App)
 - No external NuGet packages required
 - Built-in libraries only (System.Text.Json, System.IO, etc.)
+- 
+
+## Author(s)
+
+- [**Ethan Townsend (snxethan)**](www.ethantownsend.dev)
 
